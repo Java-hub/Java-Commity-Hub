@@ -1,4 +1,4 @@
-# Java-Commity-Hub
+# Java交流社区
 > 做最有有亲和力技术交流社区
 ## 🎈简介
  * Java技术学习平台
